@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("App begin")        
+        System.out.println("App begin");       
 	App obj = new App();
         System.out.println("Unique ID : " + obj.generateUniqueKey());
     }
